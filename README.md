@@ -8,7 +8,7 @@
  </div>
  
 <div>
-  <h3>📖Most Using Language</h3>
+  <h3>📖Most Used Language</h3>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chchlee&layout=compact)](https://github.com/chchlee/github-readme-stats)
 <br/><br/>
